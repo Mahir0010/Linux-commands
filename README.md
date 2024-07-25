@@ -1,5 +1,9 @@
 # Linux-commands
-Basic commands
+#How to Create a Directory and Save It to a File
+![image](https://github.com/user-attachments/assets/d2eb96c7-1b15-4516-a138-100ea26606aa)
+
+![image](https://github.com/user-attachments/assets/2eb209dc-5052-475a-bece-7dac244a44a6)
+
 
 1 whoami
 
